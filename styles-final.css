@@ -1,0 +1,38 @@
+body{
+    background-color: #eae8e8;
+    font-family:Arial, sans-serif;
+    margin-left:0px;
+    margin-right:100px
+}
+h1{
+    color:#383333;
+    font-size:50px;
+    text-align: center;
+}
+
+h3{
+    color:#666262;
+    
+}
+
+h4{
+    color:#383333;
+    font-size:20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}
+
+div.left{
+float:left;
+width:725px;
+margin:15;
+padding:2em;
+font-size:20px; 
+color:#666262;
+}
+
+footer{
+    margin-top:300px;
+    padding:5
+}
